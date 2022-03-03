@@ -8,8 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h5>TAETAE</h5>
-    <script src="app.js">
+    <p id="practice"></p>
+    <button type="button" onclick="editHTML()">BUTTON</button>
+    <script>
+        function editHTML(){
+            document.getElementsByTagName("p").innerHTML = "Hello World!";
+            // document.getElementsByTagName('h5').innerHTML ='EDITED BITCH';
+        }
     </script>
 </body>
 </html>
