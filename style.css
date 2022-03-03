@@ -3,3 +3,8 @@ body{
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+button{
+    background: rgba(128, 136, 17, 0.89);
+    border: 1px solid;
+}
