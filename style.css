@@ -1,10 +1,12 @@
 body{
-    background-color: aqua;
-    font-size: 20px;
+    background-color: rgba(34, 68, 161, 0.822);
+    font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 button{
     background: rgba(128, 136, 17, 0.89);
     border: 1px solid;
+    font: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
